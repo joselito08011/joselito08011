@@ -31,7 +31,7 @@ I am a full stack developer with **3+ years of experience** in the IT industry, 
 <table>
   <tr>
     <td align="center">
-      <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="40" alt="VS Code"/><br/>VS Code
+      <img src="https://dtcu1mfi5f.ufs.sh/f/vKPb0oGmsET1DkvPyyi2GYp6vgqmJKtE7obexiyS13IfQlBZ" width="40" alt="VS Code"/><br/>VS Code
     </td>
     <td align="center">
       <img src="https://cdn.simpleicons.org/github/181717" width="40" alt="GitHub"/><br/>GitHub
