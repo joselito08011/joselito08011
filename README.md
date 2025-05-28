@@ -1,9 +1,9 @@
-# 👨‍💻 Hi, I'm Jo!
+# 👨‍💻 Hi, I'm Jo. 👋
 
 I'm a full stack developer with **3+ years of experience** in the IT industry, working across a wide range of projects and industries. Over the years, I've honed my skills with modern front-end and back-end technologies, consistently delivering high-quality projects. Let's discuss how we can elevate your next project!
 
 
-# 🛠 Tech Stack 
+## 🛠 My Tech Stack 
 
 ### **⌨️ Programming Languages**  
 <div align="left">
@@ -12,10 +12,7 @@ I'm a full stack developer with **3+ years of experience** in the IT industry, w
   <img height="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" /><sup> C# &nbsp;&nbsp;·&nbsp;&nbsp;</sup>
   <img height="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" /><sup> PHP &nbsp;&nbsp;·&nbsp;&nbsp;</sup>
   <img height="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" /><sup> Python &nbsp;&nbsp;·&nbsp;&nbsp;</sup>
-  <img height="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" /><sup> C &nbsp;&nbsp;·&nbsp;&nbsp;</sup>
-  <img height="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" /><sup> C++ &nbsp;&nbsp;·&nbsp;&nbsp;</sup>
-  <img height="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" /><sup> Java &nbsp;&nbsp;·&nbsp;&nbsp;</sup>
-  <img height="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="SQL" /><sup> SQL/NoSQL </sup>
+  <img height="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" /><sup> Java </sup>
 </div>
 
 ### **🌍 Web Development**  
@@ -73,6 +70,7 @@ I'm a full stack developer with **3+ years of experience** in the IT industry, w
 <div align="left">
   <img height="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" title="Vercel" /><sup> Vercel &nbsp;&nbsp;·&nbsp;&nbsp;</sup>
   <img height="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" title="Netlify" /><sup> Netlify &nbsp;&nbsp;·&nbsp;&nbsp;</sup>
+  <img height="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" /><sup> AWS &nbsp;&nbsp;·&nbsp;&nbsp;</sup>
   <img height="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" /><sup> Azure </sup>
 </div>
 
