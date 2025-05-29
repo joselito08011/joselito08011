@@ -68,7 +68,7 @@ I'm a full stack developer with **3+ years of experience** in the IT industry, w
 
 ### **☁️ Cloud & Deployment**  
 <div align="left">
-  <img height="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" title="Vercel" /><sup> Vercel &nbsp;&nbsp;·&nbsp;&nbsp;</sup>
+  <img height="18" src="https://dtcu1mfi5f.ufs.sh/f/vKPb0oGmsET11Fs6SqM5YWiax6N8fwt93n0SMujEBGFVgDIO" title="Vercel" /><sup> Vercel &nbsp;&nbsp;·&nbsp;&nbsp;</sup>
   <img height="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" title="Netlify" /><sup> Netlify &nbsp;&nbsp;·&nbsp;&nbsp;</sup>
   <img height="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" /><sup> AWS &nbsp;&nbsp;·&nbsp;&nbsp;</sup>
   <img height="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" /><sup> Azure </sup>
