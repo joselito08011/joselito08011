@@ -1,6 +1,6 @@
 # 👨‍💻 Hi, I'm Jo. 👋
 
-I'm a full stack developer with **3+ years of experience** in the IT industry, working across a wide range of projects and industries. Over the years, I've honed my skills with modern front-end and back-end technologies, consistently delivering high-quality projects. Let's discuss how we can elevate your next project!
+I'm a full stack developer with **4+ years of experience** in the IT industry, working across a wide range of projects and industries. Over the years, I've honed my skills with modern front-end and back-end technologies, consistently delivering high-quality projects. Let's discuss how we can elevate your next project!
 
 
 ## 🛠 My Tech Stack 
